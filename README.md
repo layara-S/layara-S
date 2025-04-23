@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate developer exploring data science and frontend development, eager to learn and thrive where creativity meets data.</h3>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/89f8e658-0a14-41b9-8bd5-afc3abbb0dae" width="150" align="right" style="border-radius: 10px;" />
+  <img src="https://github.com/user-attachments/assets/89f8e658-0a14-41b9-8bd5-afc3abbb0dae" width="200" align="right" style="border-radius: 10px;" />
 </p>
 
 - 🌱 I’m currently learning **React, REST APIs, and backend integration**  
