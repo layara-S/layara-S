@@ -1,12 +1,25 @@
 <h1 align="center">Hi 👋, I'm Layara Samaranayake</h1>
 <h3 align="center">I'm a passionate developer exploring data science and frontend development, eager to learn and thrive where creativity meets data.</h3>
 
+<table>
+  <tr>
+    <td>
 
-- 🌱 I’m currently learning **React, REST APIs, and backend integration**
-- 💬 Ask me about **MERN, html, JavaScript, APIs**
-- 📫 How to reach me: [layarasam07@gmail.com]
-- ⚡ Fun fact: I love puppies so much—they make life better, one tail wag at a time! 🐶
+- 🌱 I’m currently learning **React, REST APIs, and backend integration**  
+- 💬 Ask me about **MERN, HTML, JavaScript, APIs**  
+- 📫 How to reach me: [layarasam07@gmail.com](mailto:layarasam07@gmail.com)  
+- ⚡ Fun fact: I love puppies so much—they make life better, one tail wag at a time! 🐶  
 
+</td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/89f8e658-0a14-41b9-8bd5-afc3abbb0dae" width="150" alt="Avatar" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔗 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/layara-samaranayake-621a53268/" target="blank">
@@ -39,11 +52,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layara-S&layout=compact&theme=dark" alt="Top Languages">
   <img src="https://github-readme-stats.vercel.app/api?username=layara-S&show_icons=true&theme=dark" alt="GitHub Stats">
 </div>
-
----
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/89f8e658-0a14-41b9-8bd5-afc3abbb0dae" width="150" alt="Avatar" />
-</p>
-
-
-
