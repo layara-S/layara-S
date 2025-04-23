@@ -36,7 +36,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layara-S&layout=compact&theme=dark" alt="Top Languages">
   <img src="https://github-readme-stats.vercel.app/api?username=layara-S&show_icons=true&theme=dark" alt="GitHub Stats">
 </div>
 
