@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Layara Samaranayake</h1>
-<h3 align="center">I'm a passionate developer exploring Data Science and Frontend Development, eager to learn and thrive where creativity meets data.</h3>
+<h3 align="center">I'm a passionate developer exploring Data Science and Full-stack Development, eager to learn and thrive where creativity meets data.</h3>
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/89f8e658-0a14-41b9-8bd5-afc3abbb0dae" width="200" align="right" style="border-radius: 10px;" />
