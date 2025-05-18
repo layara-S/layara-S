@@ -5,8 +5,8 @@
   <img src="https://github.com/user-attachments/assets/89f8e658-0a14-41b9-8bd5-afc3abbb0dae" width="200" align="right" style="border-radius: 10px;" />
 </p>
 
-- 🌱 I’m currently learning **React, REST APIs, and backend integration**  
-- 💬 Ask me about **MERN, HTML, JavaScript, APIs**  
+- 🌱 I’m currently learning **AI, Data Science and Machine Learning**  
+- 💬 Ask me about **MERN, HTML, JavaScript, Python**  
 - 📫 How to reach me: [layarasam07@gmail.com](mailto:layarasam07@gmail.com)  
 - ⚡ Fun fact: I love puppies so much—they make life better, one tail wag at a time! 🐶  
 
