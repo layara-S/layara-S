@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I’m currently learning **Data Science**  
-- 💬 Ask me about **MERN, HTML, JavaScript, Python**  
+- 💬 Ask me about **Python, AI/ML, Datawarehousing, MERN **  
 - 📫 How to reach me: [layarasam07@gmail.com](mailto:layarasam07@gmail.com)  
 - ⚡ Fun fact: I love puppies so much—they make life better, one tail wag at a time! 🐶  
 
